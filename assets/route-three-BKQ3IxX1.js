@@ -1,0 +1,1 @@
+import{d as n,n as o,q as a,y as s,c as r,a9 as p}from"./index-B8Pm80oX.js";const _=n({name:"DemosNestedRoutesThree",__name:"route-three",setup(u){return(c,e)=>{const t=p;return o(),a("div",null,[e[0]||(e[0]=s("div",null,"路由三",-1)),r(t)])}}});export{_ as default};

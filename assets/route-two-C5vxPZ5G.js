@@ -1,0 +1,1 @@
+import{d as o,n,q as a,y as s,c as r,a9 as p}from"./index-B8Pm80oX.js";const _=o({name:"DemosNestedRoutesTwo",__name:"route-two",setup(u){return(c,e)=>{const t=p;return n(),a("div",null,[e[0]||(e[0]=s("div",null,"路由二",-1)),r(t)])}}});export{_ as default};
