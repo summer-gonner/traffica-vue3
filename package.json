@@ -136,9 +136,9 @@
   "__npminstall_done": false,
   "repository": {
     "type": "git",
-    "url": "https://github.com/summer-gonner/traffica-front-vue3"
+    "url": "https://github.com/summer-gonner/traffica-vue3"
   },
-  "homepage": "https://github.com/summer-gonner/traffica-front-vue3",
+  "homepage": "https://github.com/summer-gonner/traffica-vue3",
   "keywords": [
     "vue",
     "ant-design-vue",

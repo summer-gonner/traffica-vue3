@@ -37,7 +37,7 @@ export default ({ command, mode }: ConfigEnv): UserConfig => {
   const isBuild = command === 'build';
 
   return {
-    base: '/traffica-front-vue3',
+    base: VITE_BASE_URL,
     define: {
       __APP_INFO__: JSON.stringify(__APP_INFO__),
     },
